@@ -2,11 +2,11 @@
 ### Elite Digital Marketer | Full-Stack Brand Growth Engineer | AI Automation & SaaS Architect
 
 <p align="left">
-  <a href="https://vercel.app" target="_blank">
-    <img src="https://shields.io" alt="Vercel Website">
+  <a href="https://srmsamifl.vercel.app" target="_blank">
+    <img src="https://shields.io" alt="My Website">
   </a>
-  <a href="https://github.io" target="_blank">
-    <img src="https://shields.io" alt="GitHub Pages">
+  <a href="www.fiverr.com/s/pd72gXY" target="_blank">
+    <img src="https://shields.io" alt="Fiverr">
   </a>
 </p>
 
