@@ -3,10 +3,10 @@
 
 <p align="left">
   <a href="https://srmsamifl.vercel.app" target="_blank">
-    <img src="https://shields.io" alt="My Website">
+    <img src="https://shields.io" alt="My Website ">
   </a>
   <a href="www.fiverr.com/s/pd72gXY" target="_blank">
-    <img src="https://shields.io" alt="Fiverr">
+    <img src="https://shields.io" alt=" Fiverr">
   </a>
 </p>
 
