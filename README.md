@@ -91,6 +91,26 @@ Let's eliminate your digital conversion blocks and multiply your retention metri
 * 📞 **Direct Telephony Line:** 01744100904
 * 🌐 **Digital Ecosystem Hub:** (srmsamifl.vercel.app)
 
+### 🌐 Connect With Me Across Social Matrix:
+
+<p align="left">
+  <a href="https://github.com/srmsami-fl" target="_blank"><img src="https://githubusercontent.com" width="35" height="35" style="margin-right: 12px;" alt="GitHub"></a>
+  <a href="https://www.youtube.com/@srmsami_fl" target="_blank"><img src="https://githubusercontent.com" width="35" height="35" style="margin-right: 12px;" alt="YouTube"></a>
+  <a href="https://x.com/srmsami_fl" target="_blank"><img src="https://githubusercontent.com" width="35" height="35" style="margin-right: 12px;" alt="X"></a>
+  <a href="https://www.tiktok.com/@srmsami_fl" target="_blank"><img src="https://shields.io" height="35" style="margin-right: 12px; border-radius: 4px;" alt="TikTok"></a>
+  <a href="https://www.pinterest.com/srmsami_fl" target="_blank"><img src="https://shields.io" height="35" style="margin-right: 12px; border-radius: 4px;" alt="Pinterest"></a>
+  <a href="https://www.threads.com/@srmsami.fl" target="_blank"><img src="https://shields.io" height="35" style="margin-right: 12px; border-radius: 4px;" alt="Threads"></a>
+</p>
+
+<p align="left">
+  <a href="https://bsky.app/profile/srmsami-fl.bsky.social" target="_blank"><img src="https://shields.io" height="35" style="margin-right: 12px; border-radius: 4px;" alt="Bluesky"></a>
+  <a href="https://medium.com/@srmsami.fl" target="_blank"><img src="https://shields.io" height="35" style="margin-right: 12px; border-radius: 4px;" alt="Medium"></a>
+  <a href="https://dev.to/srmsami_fl" target="_blank"><img src="https://githubusercontent.com" width="35" height="35" style="margin-right: 12px;" alt="Dev.to"></a>
+  <a href="https://discord.gg/NkmVGZwMf" target="_blank"><img src="https://githubusercontent.com" width="35" height="35" style="margin-right: 12px;" alt="Discord"></a>
+  <a href="https://www.snapchat.com/@srmkuang" target="_blank"><img src="https://shields.io" height="35" style="margin-right: 12px; border-radius: 4px;" alt="Snapchat"></a>
+  <a href="https://whatsapp.com/channel/0029VbCczhtFMqrX7W9bGg2F" target="_blank"><img src="https://shields.io" height="35" style="margin-right: 12px; border-radius: 4px;" alt="WhatsApp Channel"></a>
+</p>
+
 <br>
 
 <p align="center">
