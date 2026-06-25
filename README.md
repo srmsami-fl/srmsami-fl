@@ -65,7 +65,7 @@ Discover my recent high-authority guides published across professional platforms
 3. 🚀 [Transforming Ideas Into Digital Growth: Meet Md Sami Miah SRM卝SAMIヅ](https://github.com) — Discover my ultimate framework on digital marketing, conversion psychology, and AI automation scaling networks.
 
 4. - 📝 **সর্বশেষ ব্লগ আর্টিকেল:** 
-[Transforming Ideas Into Digital Growth: Meet Md Sami Miah SRM卝SAMIヅ](https://github.com)
+[Transforming Ideas Into Digital Growth: Meet Md Sami Miah SRM卝SAMIヅ](https://github.com/srmsami-fl/srmsami-fl.github.io/issues/2#issue-4746965435)
 
 ---
 
