@@ -64,7 +64,7 @@ Discover my recent high-authority guides published across professional platforms
 
 * 📑 **[Hello World! I am Md Sami Miah SRM卝SAMIヅ srmsami.fl – This is My Journey into the Digital Space #1](./blogs/srmsami-fl.github.io)**
 
-* 5. 📑 **[Transforming Ideas Into Digital Growth: Meet Md Sami Miah SRM卝SAMIヅ 🚀#2](srmsami-fl.github.io)** — Discover my ultimate framework on digital marketing, conversion psychology, and AI automation scaling networks live on GitHub Issues.
+* 🚀 **[Transforming Ideas Into Digital Growth: Meet Md Sami Miah SRM卝SAMIヅ](https://github.com)** — Discover my ultimate framework on digital marketing, conversion psychology, and AI automation scaling networks.
 
 ---
 
