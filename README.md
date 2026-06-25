@@ -70,20 +70,6 @@ Discover my recent high-authority guides published across professional platforms
 
 ---
 
-### 🌐 Connect With Me Across Social Matrix:
-
-<p align="left">
-  <a href="https://github.com/srmsami-fl" target="_blank"><img src="https://cloudflare.com" width="30" height="30" style="margin-right: 10px;"></a>
-  <a href="https://linkedin.com" target="_blank"><img src="https://cloudflare.com" width="30" height="30" style="margin-right: 10px;"></a>
-  <a href="https://facebook.com" target="_blank"><img src="https://cloudflare.com" width="30" height="30" style="margin-right: 10px;"></a>
-  <a href="https://instagram.com" target="_blank"><img src="https://cloudflare.com" width="30" height="30" style="margin-right: 10px;"></a>
-  <a href="https://youtube.com" target="_blank"><img src="https://cloudflare.com" width="30" height="30" style="margin-right: 10px;"></a>
-  <a href="https://tiktok.com" target="_blank"><img src="https://cloudflare.com" width="30" height="30" style="margin-right: 10px;"></a>
-  <a href="https://pinterest.com" target="_blank"><img src="https://cloudflare.com" width="30" height="30" style="margin-right: 10px;"></a>
-  <a href="https://spotify.com" target="_blank"><img src="https://cloudflare.com" width="30" height="30" style="margin-right: 10px;"></a>
-  <a href="https://soundcloud.com" target="_blank"><img src="https://cloudflare.com" width="30" height="30" style="margin-right: 10px;"></a>
-</p>
-
 ## 📩 Establish a Strategic Connection
 Let's eliminate your digital conversion blocks and multiply your retention metrics today.
 
@@ -92,16 +78,6 @@ Let's eliminate your digital conversion blocks and multiply your retention metri
 * 🌐 **Digital Ecosystem Hub:** (srmsamifl.vercel.app)
 
 ### 🌐 Connect With Me Across Social Matrix:
-
-<p align="left">
-  <a href="https://github.com/srmsami-fl" target="_blank"><img src="https://githubusercontent.com" width="35" height="35" style="margin-right: 12px;" alt="GitHub"></a>
-  <a href="https://www.youtube.com/@srmsami_fl" target="_blank"><img src="https://githubusercontent.com" width="35" height="35" style="margin-right: 12px;" alt="YouTube"></a>
-  <a href="https://x.com/srmsami_fl" target="_blank"><img src="https://githubusercontent.com" width="35" height="35" style="margin-right: 12px;" alt="X"></a>
-  <a href="https://www.tiktok.com/@srmsami_fl" target="_blank"><img src="https://shields.io" height="35" style="margin-right: 12px; border-radius: 4px;" alt="TikTok"></a>
-  <a href="https://www.pinterest.com/srmsami_fl" target="_blank"><img src="https://shields.io" height="35" style="margin-right: 12px; border-radius: 4px;" alt="Pinterest"></a>
-  <a href="https://www.threads.com/@srmsami.fl" target="_blank"><img src="https://shields.io" height="35" style="margin-right: 12px; border-radius: 4px;" alt="Threads"></a>
-</p>
-
 <p align="left">
   <a href="https://bsky.app/profile/srmsami-fl.bsky.social" target="_blank"><img src="https://shields.io" height="35" style="margin-right: 12px; border-radius: 4px;" alt="Bluesky"></a>
   <a href="https://medium.com/@srmsami.fl" target="_blank"><img src="https://shields.io" height="35" style="margin-right: 12px; border-radius: 4px;" alt="Medium"></a>
