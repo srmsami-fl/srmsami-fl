@@ -62,9 +62,11 @@ Discover my recent high-authority guides published across professional platforms
 1. 📑 **[Transforming Ideas Into Digital Growth – The Blueprint](https://medium.com/@srmsami.fl)**
 2. 📑 **[Algorithmic Audience Capture: A YouTube SEO Breakthrough](https://dev.to/srmsami_fl)**
 
+
 **সর্বশেষ ব্লগ আর্টিকেল:**
- - 📝 [Hello World! I am Md Sami Miah SRM卝SAMIヅ srmsami.fl – This is My Journey into the Digital Space](https://github.com/srmsami-fl/srmsami-fl.github.io/issues/1#issue-4744477429) 
+ - 📝 [Hello World! I am Md Sami Miah SRM卝SAMIヅ srmsami.fl – This is My Journey into the Digital Space](https://github.com/srmsami-fl/srmsami-fl.github.io/issues/1#issue-4744477429) — Whether it is building clean interfaces or structuring backend logic, I enjoy the process of turning ideas into functional, live projects.
  - 📝 [Transforming Ideas Into Digital Growth: Meet Md Sami Miah SRM卝SAMIヅ](https://github.com/srmsami-fl/srmsami-fl.github.io/issues/2#issue-4746965435) — Discover my ultimate framework on digital marketing, conversion psychology, and AI automation scaling networks.
+
 
 ---
 
