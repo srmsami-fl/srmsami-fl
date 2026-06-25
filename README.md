@@ -59,13 +59,12 @@ I don't just generate traffic; I architect sustainable multi-channel digital sys
 
 ## 📝 Recent In-Depth Publications (Blogs)
 Discover my recent high-authority guides published across professional platforms:
-1. 📑 **[Transforming Ideas Into Digital Growth – The Blueprint](https://medium.com/@srmsami.fl)** *(Update with your Medium link)*
-2. 📑 **[Algorithmic Audience Capture: A YouTube SEO Breakthrough](https://dev.to/srmsami_fl)** *(Update with your Dev.to link)*
+1. 📑 **[Transforming Ideas Into Digital Growth – The Blueprint](https://medium.com/@srmsami.fl)**
+2. 📑 **[Algorithmic Audience Capture: A YouTube SEO Breakthrough](https://dev.to/srmsami_fl)**
 
-3. 🚀 [Transforming Ideas Into Digital Growth: Meet Md Sami Miah SRM卝SAMIヅ](https://github.com) — Discover my ultimate framework on digital marketing, conversion psychology, and AI automation scaling networks.
-
-4. - 📝 **সর্বশেষ ব্লগ আর্টিকেল:** 
-[Transforming Ideas Into Digital Growth: Meet Md Sami Miah SRM卝SAMIヅ](https://github.com/srmsami-fl/srmsami-fl.github.io/issues/2#issue-4746965435)
+- 📝 [Hello World! I am Md Sami Miah SRM卝SAMIヅ srmsami.fl – This is My Journey into the Digital Space](https://github.com/srmsami-fl/srmsami-fl.github.io/issues/1#issue-4744477429) 
+- 📝 **সর্বশেষ ব্লগ আর্টিকেল:** 
+[Transforming Ideas Into Digital Growth: Meet Md Sami Miah SRM卝SAMIヅ](https://github.com/srmsami-fl/srmsami-fl.github.io/issues/2#issue-4746965435) — Discover my ultimate framework on digital marketing, conversion psychology, and AI automation scaling networks.
 
 ---
 
