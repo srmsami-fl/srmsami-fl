@@ -1,4 +1,4 @@
-# Hi there! I'm Md Sami Miah (SRM SAMI) 👋
+# Hi there! I'm Md Sami Miah (SRM卝SAMIヅ) 👋
 ### Elite Digital Marketer | Full-Stack Brand Growth Engineer | AI Automation & SaaS Architect
 
 <p align="left">
@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💼 Executive Bio & Professional Journey
-I am **Md Sami Miah** (widely recognized across elite tech networks as **SRM SAMI** or under the handle **srmsami-fl**). As an enterprise-grade **Professional Digital Marketer**, my focus lies at the intersection of conversion psychology, high-retention creative production, and full-scale operational workflow automation. 
+I am **Md Sami Miah** (widely recognized across elite tech networks as **SRM卝SAMIヅ** or under the handle **srmsami-fl**). As an enterprise-grade **Professional Digital Marketer**, my focus lies at the intersection of conversion psychology, high-retention creative production, and full-scale operational workflow automation. 
 
 I don't just generate traffic; I architect sustainable multi-channel digital systems that scale revenue, capture market share, and turn passive web traffic into high-value brand assets. 
 
@@ -59,14 +59,14 @@ I don't just generate traffic; I architect sustainable multi-channel digital sys
 
 ## 📝 Recent In-Depth Publications (Blogs)
 Discover my recent high-authority guides published across professional platforms:
-1. 📑 **[Transforming Ideas Into Digital Growth – The Blueprint](https://medium.com)** *(Update with your Medium link)*
-2. 📑 **[Algorithmic Audience Capture: A YouTube SEO Breakthrough](https://dev.to)** *(Update with your Dev.to link)*
+1. 📑 **[Transforming Ideas Into Digital Growth – The Blueprint](https://medium.com/@srmsami.fl)** *(Update with your Medium link)*
+2. 📑 **[Algorithmic Audience Capture: A YouTube SEO Breakthrough](https://dev.to/srmsami_fl)** *(Update with your Dev.to link)*
 
 ---
 
 ## 🚀 Live Core Ecosystem Hubs
-* 🌐 **[Enterprise Vercel Workspace](https://vercel.app)** — My primary, cloud-optimized deployment station.
-* 💻 **[Premium Portfolio Site](https://github.io)** — The high-end, responsive portal displaying live work metrics.
+* 🌐 **[Enterprise Vercel Workspace](https://srmsamifl.vercel.app)** — My primary, cloud-optimized deployment station.
+* 💻 **[Premium Portfolio Site](https://github.com/srmsami-fl)** — The high-end, responsive portal displaying live work metrics.
 
 ---
 
@@ -75,7 +75,7 @@ Let's eliminate your digital conversion blocks and multiply your retention metri
 
 * 📧 **Direct Email Engine:** srmsamimiah@gmail.com
 * 📞 **Direct Telephony Line:** 01744100904
-* 🌐 **Digital Ecosystem Hub:** [srmsamifl.vercel.app](https://vercel.app)
+* 🌐 **Digital Ecosystem Hub:** (srmsamifl.vercel.app)
 
 <br>
 
