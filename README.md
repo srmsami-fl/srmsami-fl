@@ -86,24 +86,16 @@ Let's eliminate your digital conversion blocks and multiply your retention metri
 
 ### 🌐 Connect With Me Across Social Matrix:
 <p align="left">
-  <a href="https://github.com" target="_blank"><img src="https://shields.io" height="30" style="margin-right: 8px;" alt="GitHub"></a>
-  <a href="https://youtube.com" target="_blank"><img src="https://shields.io" height="30" style="margin-right: 8px;" alt="YouTube"></a>
-  <a href="https://x.com" target="_blank"><img src="https://shields.io" height="30" style="margin-right: 8px;" alt="X"></a>
-  <a href="https://tiktok.com" target="_blank"><img src="https://shields.io" height="30" style="margin-right: 8px;" alt="TikTok"></a>
-  <a href="https://pinterest.com" target="_blank"><img src="https://shields.io" height="30" style="margin-right: 8px;" alt="Pinterest"></a>
-  <a href="https://threads.com" target="_blank"><img src="https://shields.io" height="30" style="margin-right: 8px;" alt="Threads"></a>
-</p>
-
-<p align="left">
-  <a href="https://bsky.app" target="_blank"><img src="https://shields.io" height="30" style="margin-right: 8px;" alt="Bluesky"></a>
-  <a href="https://medium.com" target="_blank"><img src="https://shields.io" height="30" style="margin-right: 8px;" alt="Medium"></a>
-  <a href="https://dev.to" target="_blank"><img src="https://shields.io" height="30" style="margin-right: 8px;" alt="Dev.to"></a>
-  <a href="https://discord.gg" target="_blank"><img src="https://shields.io" height="30" style="margin-right: 8px;" alt="Discord"></a>
-  <a href="https://snapchat.com" target="_blank"><img src="https://shields.io" height="30" style="margin-right: 8px;" alt="Snapchat"></a>
-  <a href="https://whatsapp.com" target="_blank"><img src="https://shields.io" height="30" style="margin-right: 8px;" alt="WhatsApp"></a>
+<a href="https://dev.to/srmsami_fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="srmsami_fl" height="30" width="40" /></a>
+<a href="https://twitter.com/srmsami_fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srmsami_fl" height="30" width="40" /></a>
+<a href="https://fb.com/srmsami_fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srmsami_fl" height="30" width="40" /></a>
+<a href="https://instagram.com/srmsami_fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srmsami_fl" height="30" width="40" /></a>
+<a href="https://medium.com/@srmsami.fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@srmsami.fl" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/srmsami_fl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="srmsami_fl" height="30" width="40" /></a>
+<a href="https://discord.gg/NkmVGZwMf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NkmVGZwMf" height="30" width="40" /></a>
 </p>
 
 <br>
 <p align="center">
-  <img src="https://srmsamifl.vercel.app" alt="Sami's Live Github Metrics" />
+  <img src="https://srmsamifl.vercel.app" alt="Sami's Live GitHub Metrics" />
 </p>
