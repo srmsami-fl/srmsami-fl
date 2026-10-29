@@ -105,5 +105,5 @@ Let's eliminate your digital conversion blocks and multiply your retention metri
 
 <br>
 <p align="center">
-  <img src="https://vercel.app" alt="Sami's Live Github Metrics" />
+  <img src="https://srmsamifl.vercel.app" alt="Sami's Live Github Metrics" />
 </p>
