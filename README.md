@@ -1,20 +1,14 @@
 # Hi there! I'm Md Sami Miah (SRM卝SAMIヅ) 👋
 ### Elite Digital Marketer | Full-Stack Brand Growth Engineer | AI Automation & SaaS Architect
 
-<p align="left">
-  <a href="https://srmsamifl.vercel.app" target="_blank">
-    <img src="https://shields.io" alt="My Website_">
+  <p align="left">
+  <a href="https://srmsamifl.vercel.app" target="Medium Orchid">
+    <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=About.Me&logoColor=white" alt="Website"/>
   </a>
-  <a href="www.fiverr.com/s/pd72gXY" target="_blank">
-    <img src="https://shields.io" alt="_Fiverr">
+  <a href="https://www.fiverr.com/s/pd72gXY" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=Fiverr&logoColor=white" alt="Fiverr"/>
   </a>
 </p>
-
-
-
-- <img src="https://simpleicons.org" width="20" height="20" style="vertical-align: middle;"> **Personal Website:** [Visit Site](https://srmsamifl.vercel.app)
-- <img src="https://simpleicons.org" width="20" height="20" style="vertical-align: middle;"> **Fiverr Marketplace:** [View My Gig](www.fiverr.com/s/pd72gXY)
-
 
 ---
 
