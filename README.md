@@ -102,10 +102,4 @@ Let's eliminate your digital conversion blocks and multiply your retention metri
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/srmsami.fl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="srmsami.fl" /></a><a href="https://ko-fi.com/srmsami_fl"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="srmsami_fl" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srmsami-fl&" alt="srmsami-fl" /></p>
-
-
-<br>
-<p align="center">
-  <img src="https://srmsamifl.vercel.app" alt="Sami's Live GitHub Metrics" />
-</p>
+<br><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srmsami-fl&" alt="srmsami-fl" /></p>
