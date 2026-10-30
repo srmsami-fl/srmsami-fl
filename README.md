@@ -12,8 +12,8 @@
 
 
 
-- <img src="https://flaticon.com" width="20" height="20" valign="middle"> **Personal Website:** [Visit Site](https://srmsamifl.vercel.app)
-- <img src="https://flaticon.com" width="20" height="20" valign="middle"> **Fiverr Marketplace:** [View My Gig](www.fiverr.com/s/pd72gXY)
+- <img src="https://simpleicons.org" width="20" height="20" style="vertical-align: middle;"> **Personal Website:** [Visit Site](https://srmsamifl.vercel.app)
+- <img src="https://simpleicons.org" width="20" height="20" style="vertical-align: middle;"> **Fiverr Marketplace:** [View My Gig](www.fiverr.com/s/pd72gXY)
 
 
 ---
