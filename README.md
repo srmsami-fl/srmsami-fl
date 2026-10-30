@@ -1,3 +1,6 @@
+<img src="https://i.ibb.co.com/QFHwfR7R/MD-SAMI-MIA-Social-Media-Management.png" alt="MD-SAMI-MIA-Social-Media-Management" border="0" />
+<h6 align="center">Professional Web Designer, Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites</h3>
+
 # Hi there! I'm Md Sami Miah (SRM卝SAMIヅ) 👋
 ### Elite Digital Marketer | Full-Stack Brand Growth Engineer | AI Automation & SaaS Architect
 
