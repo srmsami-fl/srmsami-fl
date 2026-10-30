@@ -10,6 +10,12 @@
   </a>
 </p>
 
+
+
+- <img src="https://flaticon.com" width="20" height="20" valign="middle"> **Personal Website:** [Visit Site](https://srmsamifl.vercel.app)
+- <img src="https://flaticon.com" width="20" height="20" valign="middle"> **Fiverr Marketplace:** [View My Gig](www.fiverr.com/s/pd72gXY)
+
+
 ---
 
 ## 👨‍💼 Executive Bio & Professional Journey
