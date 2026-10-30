@@ -83,6 +83,7 @@ Let's eliminate your digital conversion blocks and multiply your retention metri
 * 📧 **Direct Email Engine:** srmsamimiah@gmail.com
 * 📞 **Direct Telephony Line:** 01744100904
 * 🌐 **Digital Ecosystem Hub:** (srmsamifl.vercel.app)
+* 𝓒𝓥 **My Curriculum Vitae:** https://drive.google.com/file/d/1bFvLbEU8zIA-r90bex08cZxMxoIfhQw0/view?usp=sharing
 
 ### 🌐 Connect With Me Across Social Matrix:
 <p align="left">
